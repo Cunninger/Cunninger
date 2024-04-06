@@ -1,6 +1,5 @@
 
 
-![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
 
 
 ## Top Projects
@@ -10,6 +9,10 @@
 
 
 
+![skills](https://skillicons.dev/icons?perline=14&i=bash,devto,discord,docker,git,github,githubactions,go,html,java,js,linux,md,mysql,nginx,nodejs,ps,py,pytorch,redis,sqlite,stackoverflow,twitter,ts,vercel,vscode,vue,workers,c)
 
+[![](https://raw.githubusercontent.com/xiaozhou26/xiaozhou26/main/out/ocean.gif)](https://github.com/Cunninger)
+
+[![](https://raw.githubusercontent.com/xiaozhou26/Cunninger/main/out/ocean.gif)](https://github.com/Cunninger)
 
 *Last updated on: 2024-03-31 20:25:44*
