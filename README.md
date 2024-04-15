@@ -6,7 +6,8 @@
 |Project|Description|
 |:--|:--|
 |[py获取ghu](https://linux.do/t/topic/25088)|py一键获取ghu，用于逆向`chatgpt4.0`
-|[status-card](https://github.com/Cunninger/status-card)|各大平台数据监测，在`coding`
+|[status-card](https://github.com/Cunninger/status-card)|各大算法平台数据监测，正在加工ing
+|[ghu-checker](https://github.com/Cunninger/ghu_checker.git)|测活github copilot的ghu,所以你懂了吗
 
 
 
