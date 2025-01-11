@@ -1,3 +1,6 @@
+![Total Stars](https://github-readme-stats.vercel.app/api?username=cunninger&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs)
+---
+
 ![skills](https://skillicons.dev/icons?perline=14&i=bash,devto,discord,docker,git,github,githubactions,go,html,java,js,linux,md,mysql,nginx,nodejs,ps,py,pytorch,redis,sqlite,stackoverflow,twitter,ts,vercel,vscode,vue,workers)
 
 [![](https://raw.githubusercontent.com/xiaozhou26/xiaozhou26/main/out/ocean.gif)](https://github.com/Cunninger)
