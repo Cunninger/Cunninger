@@ -13,7 +13,7 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[ocr-based-qwen](https://github.com/Cunninger/ocr-based-qwen)|本项目基于 QwenLM 。通过调用 QwenLM 的 ”API“，你可以从图片中提取文字内容，并且该项目支持一键部署到 Cloudflare Workers (CF) 上.|`207⭐`|
+|[ocr-based-qwen](https://github.com/Cunninger/ocr-based-qwen)|本项目基于 QwenLM 。通过调用 QwenLM 的 ”API“，你可以从图片中提取文字内容，并且该项目支持一键部署到 Cloudflare Workers (CF) 上.|`212⭐`|
 
 
 *Last updated on: 2024-03-31 20:25:44*
